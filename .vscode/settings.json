@@ -12,11 +12,10 @@
     "ui.completion.usePlaceholders": true,
   },
   "go.languageServerExperimentalFeatures": {
-    "diagnostics": false
+    "diagnostics": true
   },
   "go.trace.server": "messages",
   "cSpell.words": [
-bed-and-breakfast
     "alexedwards",
     "coverprofile",
     "github",
@@ -36,9 +35,5 @@ bed-and-breakfast
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "remote.SSH.remoteServerListenOnSocket": true,
-  "go.inferGopath": false,
-  "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
-  }
+  "remote.SSH.remoteServerListenOnSocket": true
 }

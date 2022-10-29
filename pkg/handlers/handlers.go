@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/steacep/hello-world/v2/pkg/config"
-	"github.com/steacep/hello-world/v2/pkg/models"
-	"github.com/steacep/hello-world/v2/pkg/render"
+	"github.com/steacep/bookings/pkg/config"
+	"github.com/steacep/bookings/pkg/models"
+	"github.com/steacep/bookings/pkg/render"
 )
 
 // Repo is the repository used by the handlers

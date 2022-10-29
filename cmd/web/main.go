@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/steacep/hello-world/v2/pkg/config"
-	"github.com/steacep/hello-world/v2/pkg/handlers"
-	"github.com/steacep/hello-world/v2/pkg/render"
+	"github.com/steacep/bookings/pkg/config"
+	"github.com/steacep/bookings/pkg/handlers"
+	"github.com/steacep/bookings/pkg/render"
 )
 
 const portNumber = ":8080"

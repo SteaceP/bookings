@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/steacep/hello-world/v2/pkg/config"
-	"github.com/steacep/hello-world/v2/pkg/models"
+	"github.com/steacep/bookings/pkg/config"
+	"github.com/steacep/bookings/pkg/models"
 )
 
 var functions = template.FuncMap{}
